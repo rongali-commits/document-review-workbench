@@ -1,7 +1,7 @@
 # Document Review Workbench
 
 [![CI](https://github.com/rongali-commits/document-review-workbench/actions/workflows/ci.yml/badge.svg)](https://github.com/rongali-commits/document-review-workbench/actions/workflows/ci.yml)
-[Live application](https://rongali-commits.github.io/document-review-workbench/) · [Portfolio](https://www.rongalichaitanya.com) · [Discuss a document workflow](mailto:hello@rongalichaitanya.com)
+[Live application](https://rongali-commits.github.io/document-review-workbench/) · [Portfolio](https://noerong.com/projects) · [Discuss a document workflow](mailto:hello@noerong.com)
 
 A transparent document-review workspace for matching text against custom criteria, showing evidence, and exporting a structured result.
 
